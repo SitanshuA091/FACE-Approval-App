@@ -97,14 +97,6 @@ Uses **LBPH algorithm** for face recognition:
 
 ## 👨‍💻 Author
 
-**Sitanshu Anmol** @ Yadu Public School 2025
-
----
-
-## 📄 License
-
-MIT License
-
----
+**Sitanshu Anmol** 
 
 <p align="center">⭐ Demo project for my learning purposes</p>
