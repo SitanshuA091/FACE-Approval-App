@@ -1,4 +1,4 @@
-# 🎭 FaceApproval - AI Attendance System
+# 🎭 FaceApproval - Facial Recognition + Attendance System
 
 > A facial recognition attendance system demo built with React, FastAPI, and OpenCV LBPH.
 
