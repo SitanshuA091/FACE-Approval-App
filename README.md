@@ -107,4 +107,4 @@ MIT License
 
 ---
 
-<p align="center">⭐ Demo project for educational purposes</p>
+<p align="center">⭐ Demo project for my learning purposes</p>
