@@ -54,7 +54,7 @@ npm start
 
 ---
 
-## 📱 Usage
+## Usage
 
 1. **Enroll** - Capture or upload face photo
 2. **Approve Entry** - Face camera for recognition
