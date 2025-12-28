@@ -9,10 +9,10 @@
 ## ✨ Features
 
 - 📸 **Dual Enrollment** - Webcam or file upload
-- 🔍 **Real-time Recognition** - Automatic attendance marking
-- 📊 **Live Dashboard** - Stats and records
-- ☁️ **Google Sheets** - Auto data sync
-- 📱 **Responsive** - Works on all devices
+- **Real-time Recognition** - Automatic attendance marking
+- **Live Dashboard** - Stats and records
+- **Google Sheets** - Auto data sync
+- **Responsive** - Works on all devices
 
 ---
 
