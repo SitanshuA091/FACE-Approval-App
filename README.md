@@ -8,7 +8,7 @@
 
 ## ✨ Features
 
-- 📸 **Dual Enrollment** - Webcam or file upload
+- **Dual Enrollment** - Webcam or file upload
 - **Real-time Recognition** - Automatic attendance marking
 - **Live Dashboard** - Stats and records
 - **Google Sheets** - Auto data sync
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** React, Tailwind CSS, React Webcam  
 **Backend:** FastAPI, OpenCV (LBPH), Google Sheets API  
@@ -62,7 +62,7 @@ npm start
 
 ---
 
-## 📁 Structure
+## Structure
 ```
 ├── backend/          # FastAPI + OpenCV
 │   ├── app/
@@ -74,7 +74,7 @@ npm start
 
 ---
 
-## 🔧 API Endpoints
+## API Endpoints
 
 - `POST /api/enroll/webcam` - Enroll from camera
 - `POST /api/enroll/file` - Enroll from file
@@ -95,7 +95,7 @@ Uses **LBPH algorithm** for face recognition:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Sitanshu Anmol** 
 
