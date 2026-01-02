@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Dual Enrollment** - Webcam or file upload
 - **Real-time Recognition** - Automatic attendance marking
@@ -85,7 +85,7 @@ npm start
 
 ---
 
-## 🤖 How It Works
+## Mechanism
 
 Uses **LBPH algorithm** for face recognition:
 - Detects faces with Haar Cascade
