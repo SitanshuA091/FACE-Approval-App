@@ -39,7 +39,6 @@ cd backend
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-# Configure .env with Google Sheets credentials
 python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
@@ -71,9 +70,7 @@ npm start
 └── frontend/         # React UI
     └── src/
 ```
-
 ---
-
 ## API Endpoints
 
 - `POST /api/enroll/webcam` - Enroll from camera
@@ -94,9 +91,4 @@ Uses **LBPH algorithm** for face recognition:
 - Recognizes faces in real-time
 
 ---
-
-## Author
-
-**Sitanshu Anmol** 
-
 <p align="center">⭐ Demo project for my learning purposes</p>
