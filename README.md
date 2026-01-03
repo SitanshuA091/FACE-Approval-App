@@ -1,6 +1,6 @@
 # FaceApproval - Facial Recognition + Attendance System
 
-> A simple facial recognition attendance system demo built with React, FastAPI, and OpenCV LBPH.
+A simple facial recognition attendance system demo built with React, FastAPI, and OpenCV LBPH.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![React](https://img.shields.io/badge/React-18.2-61dafb) ![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688)
 
