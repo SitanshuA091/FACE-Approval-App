@@ -51,7 +51,14 @@ npm start
 
 **Access:** http://localhost:3000
 
----
+Google Sheets Setup  
+- <em> put the google_sheets_creds.json file(downloaded from https://console.cloud.google.com) and store it in a credentials folder in the backend directory and add the required path and spreadsheet ID from google sheets also share the spreadsheet with the service account email created</em>
+**Procedure**
+  - Click "New Project" → add project name and → Create
+  - Enable Google Sheets API from library
+  - from API & services -> create credentials -> Service Account and grant editor access after creation
+  - from the service account create key in JSON format and create(automatic download to system)
+
 
 ## Usage
 
